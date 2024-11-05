@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.squarekernels.pixelport"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.squarekernels.pixelport"
